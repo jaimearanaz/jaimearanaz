@@ -20,19 +20,6 @@ Today, I put all that knowledge into building high-quality, well-architected mob
 
 ---
 
-## What Do I Offer? 🙋‍♂️
-
-- App development for **iOS**, **iPadOS** and **watchOS**
-- On-demand support for overloaded dev teams
-- **Architecture and UI/UX consulting**
-- Reliable estimations — and I stick to them
-- Frequent and transparent communication, with real deliverables
-- Full **App Store publication management**
-- **Post-launch support**, maintenance and bug fixing
-- Clean, maintainable and scalable code
-
----
-
 ## Get in Touch 📫 
 
 - [LinkedIn](https://www.linkedin.com/in/your-profile)  
