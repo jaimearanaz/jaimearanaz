@@ -9,12 +9,12 @@ Throughout my career, I’ve developed apps for a wide range of industries: fina
 ## 💪 How I Work
 
 - iOS development using **Swift** and **Xcode**
-- UI design with **SwiftUI** or **UIKit**
+- UI design with `SwiftUI` or `UIKit`
 - Clean and scalable architectures (**SOLID**, **Clean Code**, **Clean Architecture**)
-- Asynchronous programming using **Combine**, **Task** or **async/await**
+- Asynchronous programming using `Combine`, `Task` and `async/await`
 - Agile methodologies like **Scrum**
 - Collaborative tools: Jira, Trello, GitHub, Figma, Slack, Teams, Google Docs
-- **Unit testing** using frameworks like **XCTest** and **Testing**
+- **Unit testing** using frameworks like `XCTest` and `Testing`
 - **Swift Package Manager** for modularization and third party libraries handling
 - Supported by AI tools like ChatGPT, **Copilot** and Alex Sidebar
 
