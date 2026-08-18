@@ -22,7 +22,7 @@ Today, I put all that knowledge into building high-quality, well-architected mob
 
 ## Get in Touch 📫 
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [LinkedIn](https://www.linkedin.com/in/jaimearanaztudela/)  
 - Email: `jaime.aranaz@gmail.com`
 
 ---
