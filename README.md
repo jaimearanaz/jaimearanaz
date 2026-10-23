@@ -1,31 +1,26 @@
-# Hi there! I'm Jaime 👋
+# Hi, I'm Jaime 👋
 
-I'm a freelance iOS developer with over 15 years of experience working in the private sector.
+**Senior Freelance iOS Developer | Swift · SwiftUI · UIKit · Clean Architecture · MVVM**
 
-Today, I put all that knowledge into building high-quality, well-architected mobile apps for new clients and exciting projects.
+I'm a senior freelance iOS developer with over 15 years of professional experience in Mobile development, specializing in iOS since 2017.
 
----
+I've worked on production mobile applications across **banking, mobility, and retail**, collaborating with cross-functional teams to build, maintain, and evolve iOS products.
 
-## How Do I Work? 🛠️
+I enjoy hands-on development, solving technical challenges, and writing clean, maintainable, and well-tested code. My focus is on practical engineering solutions, thoughtful architecture, and long-term code quality.
 
-- iOS development using **Swift** and **Xcode**
-- UI design with `SwiftUI` or `UIKit`
-- Clean and scalable architectures (**SOLID**, **Clean Code**, **Clean Architecture**)
-- Asynchronous programming using `Combine`, `Task` and `async/await`
-- Agile methodologies like **Scrum**
-- Collaborative tools: Jira, Trello, GitHub, Figma, Slack, Teams, Google Docs
-- **Unit testing** using frameworks like `XCTest` and `Testing`
-- **Swift Package Manager** for modularization and third party libraries handling
-- Supported by AI tools like ChatGPT, **Copilot** and Alex Sidebar
+## 🛠️ Tech Stack & Expertise
 
----
+- **iOS Development:** Swift, SwiftUI, UIKit, Xcode
+- **Architecture & Design:** MVVM, Clean Architecture, SOLID principles, Dependency Injection
+- **Concurrency & Reactive Programming:** Swift Concurrency (async/await), Combine
+- **Testing & Quality:** XCTest, Unit Testing, Snapshot Testing
+- **Modularization & Dependencies:** Swift Package Manager, CocoaPods
+- **CI/CD:** GitHub Actions, Bitrise
+- **Ways of Working:** Agile/Scrum, cross-functional collaboration, code reviews
 
-## Get in Touch 📫 
+## 📫 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/jaimearanaztudela/)  
-- Email: `jaime.aranaz@gmail.com`
+I'm open to freelance collaborations, particularly long-term projects where I can contribute as a hands-on iOS developer within an established team.
 
----
-
-_Thanks for visiting my GitHub profile!_  
-_If you have an idea or a project in mind, let’s talk and see how I can help bring it to life._ 🚀
+- **LinkedIn:** [linkedin.com/in/jaimearanaztudela](https://www.linkedin.com/in/jaimearanaztudela/)
+- **Email:** jaime.aranaz@gmail.com
